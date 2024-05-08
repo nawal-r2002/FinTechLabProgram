@@ -3,7 +3,7 @@
 # Task 1.2 Summary and Implementation Reasoning:
 Considering the changes in the net revenue from 1995 to 2023 is an important factor for users to observe from a company because it shows an insight into how much a company has grown in terms of demand and it would help make more informed strategic decisions for company projects and development. Additionally, the revenue is applicable as an insight for people looking to work for that company because it helps attract talent for open company positions and it helps show a job seeker what financial stability might look like if they were to work for that company. Therefore, if there were significant improvements in revenue for a long period then it shows that the company has an advantage. 
 
-Code Implementation: This was my first time being exposed to using an LLM model in terms of coding practices so I could not finish getting outputs from each file. But, I would love to have the opportunity to be able to learn more about how to apply LLM models in new applications. 
+Code Implementation: This was my first time being exposed to using an LLM model in terms of coding practices so I could not finish getting outputs from each file. But I am very interested in this role, so I would love to have the opportunity to be able to learn more about how to apply LLM models in new applications in order to gain a new understanding of the underlying concepts. 
 
 # Task 2 Summary and Implementation Reasoning:
 Link of Application: http://127.0.0.1:3340/
